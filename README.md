@@ -1,4 +1,4 @@
-# Base Project React Sass
+# Base Project React
 @author Oscar Eduardo Raygoza
 
 - Configuración inicial para proyecto de React
