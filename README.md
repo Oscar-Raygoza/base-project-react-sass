@@ -12,7 +12,7 @@ git clone https://github.com/Oscar-Raygoza/base-project-react-sass.git
 
 cd base-project-react-sass
 
-npm run install
+npm install
 
 npm run start
 
